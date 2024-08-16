@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "isFeatured": false,
+      "description": "Learn the basics of guitar playing, including chords and strumming patterns."
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "isFeatured": true,
+      "description": "An introductory course to piano, covering essential techniques and music theory."
+    },
+    {
+      "id": 3,
+      "title": "Drum Techniques for Beginners",
+      "isFeatured": false,
+      "description": "Explore fundamental drumming techniques and rhythms for beginners."
+    },
+    {
+      "id": 4,
+      "title": "Music Theory 101",
+      "isFeatured": true,
+      "description": "Understand the basics of music theory, including scales, chords, and harmony."
+    },
+    {
+      "id": 5,
+      "title": "Advanced Guitar Techniques",
+      "isFeatured": false,
+      "description": "Enhance your guitar skills with advanced techniques and styles."
+    },
+    {
+      "id": 6,
+      "title": "Vocal Training for Beginners",
+      "isFeatured": true,
+      "description": "Beginner's guide to vocal techniques and exercises to improve your singing voice."
+    },
+    {
+      "id": 7,
+      "title": "Jazz Improvisation",
+      "isFeatured": false,
+      "description": "Learn the art of improvisation in jazz music, including scales and techniques."
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "isFeatured": false,
+      "description": "Create electronic music using modern production techniques and software."
+    },
+    {
+      "id": 9,
+      "title": "Classical Piano Repertoire",
+      "isFeatured": true,
+      "description": "Dive into classical piano pieces and develop your skills through challenging repertoire."
+    },
+    {
+      "id": 10,
+      "title": "Music Composition Basics",
+      "isFeatured": false,
+      "description": "Introduction to music composition, including melody, harmony, and structure."
+    },
+    {
+      "id": 11,
+      "title": "Songwriting Workshop",
+      "isFeatured": false,
+      "description": "Workshop focused on developing your songwriting skills and techniques."
+    },
+    {
+      "id": 12,
+      "title": "Music Production with Ableton Live",
+      "isFeatured": false,
+      "description": "Learn to produce music using Ableton Live, covering key features and workflows."
+    },
+    {
+      "id": 13,
+      "title": "Bass Guitar Fundamentals",
+      "isFeatured": false,
+      "description": "Explore the basics of bass guitar playing, including technique and groove."
+    },
+    {
+      "id": 14,
+      "title": "Music Theory for Songwriters",
+      "isFeatured": true,
+      "description": "Apply music theory concepts to enhance your songwriting and composition."
+    },
+    {
+      "id": 15,
+      "title": "Live Sound Engineering",
+      "isFeatured": false,
+      "description": "Understand the fundamentals of live sound engineering, including setup and mixing."
+    },
+    {
+      "id": 16,
+      "title": "Introduction to Music Genres",
+      "isFeatured": false,
+      "description": "Explore various music genres and their characteristics."
+    },
+    {
+      "id": 17,
+      "title": "Orchestration and Arranging",
+      "isFeatured": false,
+      "description": "Learn the techniques of orchestrating and arranging music for different ensembles."
+    },
+    {
+      "id": 18,
+      "title": "Electronic Dance Music (EDM) Production",
+      "isFeatured": false,
+      "description": "Create EDM tracks using industry-standard techniques and software."
+    },
+    {
+      "id": 19,
+      "title": "Film Scoring and Composition",
+      "isFeatured": false,
+      "description": "Compose music for film, understanding the relationship between visuals and audio."
+    },
+    {
+      "id": 20,
+      "title": "Introduction to DJing",
+      "isFeatured": false,
+      "description": "Get started with DJing, including mixing techniques and equipment usage."
+    }
+  ]
+}
